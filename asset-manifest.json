@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/leadrat-assignment/static/css/main.58adddc1.css",
+    "main.js": "/leadrat-assignment/static/js/main.2d2fc8ae.js",
+    "index.html": "/leadrat-assignment/index.html",
+    "main.58adddc1.css.map": "/leadrat-assignment/static/css/main.58adddc1.css.map",
+    "main.2d2fc8ae.js.map": "/leadrat-assignment/static/js/main.2d2fc8ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58adddc1.css",
+    "static/js/main.2d2fc8ae.js"
+  ]
+}
